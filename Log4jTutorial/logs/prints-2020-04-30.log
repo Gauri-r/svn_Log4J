@@ -1,0 +1,8 @@
+17:29:40.146 [main] INFO  Alpha.Log4jDemo - Successfully Opened Amazon.in
+17:29:49.560 [main] ERROR Alpha.Log4jDemo -  NOT EXECUTED 
+18:24:15.841 [main] INFO  Alpha.Log4jDemo - Successfully Opened Amazon.in
+18:24:24.747 [main] ERROR Alpha.Log4jDemo -  NOT EXECUTED 
+18:35:58.718 [main] INFO  Alpha.Log4jDemo - Successfully Opened Amazon.in
+18:36:17.311 [main] INFO  Alpha.Log4jDemo - Best Sellers Link Clicked Succesfully
+18:36:17.342 [main] ERROR Alpha.Log4jDemo -  NOT EXECUTED 
+18:42:28.926 [main] INFO  Alpha.Log4jDemo - Successfully Opened Amazon.in
