@@ -26,6 +26,7 @@ public class act {
 		
 		
 		try {
+			System.out.println("In Try Block");
 			driver.findElement(By.xpath("//a[contains(text(),'Best Sellers')]")).click();
 			log.info("Best Sellers Link Clicked Succesfully");
 			driver.findElement(By.xpath("//img[contains(@alt,'The Power of your Subconscious Mind')]")).click();
